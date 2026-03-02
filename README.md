@@ -2,7 +2,7 @@
 
 一个充满仪式感的年度回顾 Web 应用，陪伴你通过 40 个深度问题回顾过去一年，并生成一份精美的年度画卷。
 
-[Live Demo →](https://your-app.vercel.app)
+[Live Demo →](https://40-questions-review-2025.vercel.app)
 
 ---
 
